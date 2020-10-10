@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Artga\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Artga\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_FluxShooter.-1593930555.00" t="ExcludeRecursive" />
+    <e p="D:\GameDev\FluxShooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Action.cs" t="Include" />
+          <e p="Blueprint.cs" t="Include" />
+          <e p="BlueprintBasedState.cs" t="Include" />
+          <e p="ClientType.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameState.cs" t="Include" />
+          <e p="Players" t="Include">
+            <e p="MovementReducer.cs" t="Include" />
+            <e p="OrientationReducer.cs" t="Include" />
+            <e p="PlayerBlueprint.cs" t="Include" />
+            <e p="PlayerConstants.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerMoved.cs" t="Include" />
+            <e p="PlayerOrientationChanged.cs" t="Include" />
+            <e p="PlayerState.cs" t="Include" />
+            <e p="StaminaRecovery.cs" t="Include" />
+          </e>
+          <e p="Reducer.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+          <e p="TickAction.cs" t="Include" />
+          <e p="Ui" t="Include">
+            <e p="PlayerUiController.cs" t="Include" />
+            <e p="ProgressBarController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FluxShooter.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
